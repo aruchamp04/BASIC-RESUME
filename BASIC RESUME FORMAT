@@ -1,0 +1,33 @@
+    <head><fieldset>
+        <h1 align ="center">RESUME</h1>
+        <p><Br>
+            <H2 align ="center">EDUCATION</H2>
+        <h3>NAME</h3>
+        </p>
+        <p>
+            ARUN KUMAR P
+        </p>
+        <p><h3>DEPARTMENT</h3></p>
+        <p>FOOD TECHNILOGY</p>
+        <p><h3>ROLL NO</h3></p>
+        <p>202FD106</p>
+        <p><h3>COLLEGE </h3></p>
+        <p>BANNARI AMMAN INSTITUTE OF TECHNOLOGY</p>
+        <p><h3>CGPA UPTO 8<sup>TH</sup>SEMESTER</h3></p>
+        <p>9.06</p>
+        <p><h3>ARREAR</h3></p>
+        <p>NILL</p>
+        
+        <p><h3>10TH MARK</h3>
+        <p>437</p>
+        <p><h3>12TH MARK</h3></p>
+        <p>437</p>
+        <P><h3>LANGUAGE</h3></P>
+        <p>1)ENGLISH<br>2)HINDI<BR>3)TAMIL</p>
+        <p><h3>ACHIEVEMENTS</h3></p>
+        <p>1)KHO-KHO WINNER<BR>2)SIH RUNNER UP<BR></p>
+           
+        </p>
+        
+    </head>
+</html></fiedset>
